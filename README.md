@@ -29,7 +29,7 @@ npm run dev
 ## Routes
 
 ```bash
-GET     /        # Get all post
+GET     /        # Get all posts with pagination
 GET     /:id     # GEt Single post
 POST    /        # Add  post
 POST    /many    # Add multiple posts
