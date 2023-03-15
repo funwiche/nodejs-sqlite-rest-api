@@ -29,10 +29,10 @@ npm run dev
 ## Routes
 
 ```bash
-- GET     /        # Get all post
-- GET     /:id     # GEt Single post
-- POST    /        # Add  post
-- POST    /many    # Add multiple posts
-- PATCH   /        # Update one post
-- DELETE  /        # Delete one post
+GET     /        # Get all post
+GET     /:id     # GEt Single post
+POST    /        # Add  post
+POST    /many    # Add multiple posts
+PATCH   /        # Update one post
+DELETE  /        # Delete one post
 ```
